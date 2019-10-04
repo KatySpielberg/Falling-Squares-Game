@@ -1,0 +1,3 @@
+Write a small game called "FallingSquares", in which squares are falling from the top of a div, and a racket has to move left and right to collect the squares.
+
+Keep score of the squares that were successfully collected and the squares that missed the racket.
